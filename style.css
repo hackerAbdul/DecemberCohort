@@ -1,0 +1,45 @@
+h6{
+    font-size: 24px;
+}
+
+a{
+    text-decoration: none;
+    color: aqua;
+}
+
+
+img{
+    width: 300px;
+    height: 200px;
+}
+
+ul{
+    list-style: none;
+}
+
+ol {
+    list-style-type: upper-alpha;
+}
+
+
+.firstDiv{
+    background-color: pink;
+}
+
+#abdul{
+    background-color: darkorange;
+}
+
+h1{
+    font-style: italic;
+    font-family: cursive;
+    color: gold;
+    font-size: 86px;
+}
+
+#title{
+    font-style: normal;
+    font-size: 86px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+}
