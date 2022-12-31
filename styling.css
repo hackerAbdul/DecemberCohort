@@ -43,7 +43,11 @@ a img:hover{
 
 h1{
     color: orangered;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: black;
 }
+
+
 
 #middle{
     color: blue;

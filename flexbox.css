@@ -1,0 +1,101 @@
+.main{
+    width: 100%;
+    background-color: cornflowerblue;
+    border: 1px solid black;
+}
+
+.flexbox-container .child1{
+    background-color: aqua;
+}
+
+.flexbox-container div{
+    margin: 10px;
+    width: 300px;
+    background-color: orange;
+    border: 1px solid black;
+}
+
+.flexbox-container .child-5{
+    background-color: transparent;
+    height: auto;
+}
+
+img{
+    width: 300px;
+    height: 300px;
+}
+
+em{
+    color: orangered;
+    font-style: normal;
+}
+
+span{
+    color: orangered;
+}
+
+b{
+    font-style: normal;
+    color: red;
+}
+
+
+
+.flexbox-container{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    border: 1px solid black;
+    margin: 10px;
+    background-color: darkkhaki;
+}
+
+/* .flexbox-container .child1{
+    align-self: flex-start;
+}
+
+.flexbox-container .child-2{
+    align-self: center;
+}
+
+.flexbox-container .child-3{
+    align-self: baseline;
+} */
+
+#nav{
+    list-style-type: none;
+    display: flex;
+    justify-content: center;
+}
+
+#nav li{
+    padding: 10px 15px;
+    background-color: cornsilk;
+    border: 1px solid black;
+    border-radius: 5px;
+    margin: 5px;
+}
+
+#nav li a{
+    text-decoration: none;
+    color: black;
+}
+
+#nav li:hover{
+    background-color: brown;
+    color: white;
+}
+
+#nav li a:hover{
+    background-color: brown;
+    color: white;
+}
+
+/* #nav li:nth-last-child(1){
+    margin-left: auto;
+    margin-right: 10px;
+} */
+
+/* #nav li:last-child{
+    margin-left: auto;
+} */
