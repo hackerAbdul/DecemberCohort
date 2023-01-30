@@ -1,5 +1,6 @@
-var name = "123"
-var email
+var name = " "
+var email;
+var surname;
 
 function validation(param){
 

@@ -43,7 +43,7 @@
 
 
 
-var clothesArray = ["Socks", "Jeans", "Shoes", "hat", "T-shirt", "shirt", "Jacket"]
+var clothesArray = ["Socks", "Jeans", "Shoes", "hat", "T-shirt", "shirt", "Jacket","oranges", "apples", "pineapple", "banana", "grapes"]
 
 var shoppingList = ["oranges", "apples", "pineapple", "banana", "grapes"]
 
