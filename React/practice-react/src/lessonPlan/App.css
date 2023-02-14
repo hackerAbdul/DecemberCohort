@@ -1,0 +1,73 @@
+.parent{
+  margin-top: 1%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.App{
+  border-radius: 10px;
+  background-color: darkslategray;
+  color: white;
+}
+
+.info{
+  padding: 5%;
+}
+
+.footer{
+  height: 50px;
+  display: flex;
+  justify-content: flex-end; 
+}
+
+.footer li a{
+  text-decoration: none;
+  color: whitesmoke;
+}
+
+
+header{
+  text-align: center;
+}
+
+header ul{
+  padding: 0;
+  list-style-type: none;
+  display: flex;
+  justify-content: space-around;
+}
+
+li{
+  display: block;
+  padding: 1% 10%;
+  width: 20%;
+  border-radius: 5px;
+}
+
+img{
+  width: 100%;
+  border-top-right-radius: 10px;
+  border-top-left-radius: 10px;
+}
+
+.LinkedIn{
+  background-color: #378ff3;
+}
+
+.Email{
+  color: black;
+  background-color: white;
+}
+
+.Email a{
+  color: black;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.LinkedIn a{
+  color: whitesmoke;
+  text-decoration: none;
+  font-weight: bold;
+}

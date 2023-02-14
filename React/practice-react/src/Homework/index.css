@@ -1,0 +1,33 @@
+nav ul{
+    margin: 0;
+    display: flex;
+    list-style-type: none;
+    background-color: cornflowerblue;
+}
+
+nav ul li{
+    display: block;
+    padding: 10px 15px;
+}
+
+nav ul li a{
+    color: black;
+    text-decoration: none;
+}
+
+nav ul li:hover{
+    color: black;
+    background-color: beige;
+    text-decoration: none;
+}
+
+body{
+    background-color: grey;
+}
+
+.footer{
+    display: flex;
+    justify-content: space-around;
+    list-style-type: none;
+}
+
