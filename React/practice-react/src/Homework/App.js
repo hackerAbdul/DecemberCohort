@@ -6,9 +6,12 @@ import './index.css'
 function App(){
     return(
         <div className="Parent">
-            <Nav />
             <h1>Hello this will be homework 1 in react!</h1>
+            <Nav />
             <Abdulkadir />
+            
+            
+            
         </div>
     )
 }

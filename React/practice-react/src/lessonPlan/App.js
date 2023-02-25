@@ -1,6 +1,7 @@
 import './App.css';
 import Info from './info';
 import Footer from './Footer';
+import Nav from '../Homework/Nav';
 
 function App() {
 
@@ -16,6 +17,7 @@ function App() {
   return (
     <div className='parent'>
       <div className="App">
+        <Nav />
         <header>
           <img src='https://upload.wikimedia.org/wikipedia/commons/9/9e/Ours_brun_parcanimalierpyrenees_1.jpg' alt='bear'/>
           <h2>{name} {last}</h2>

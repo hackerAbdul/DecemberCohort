@@ -1,5 +1,4 @@
 import React from 'react'
-import List from './List'
 import './index.css'
 import data from './data'
 
